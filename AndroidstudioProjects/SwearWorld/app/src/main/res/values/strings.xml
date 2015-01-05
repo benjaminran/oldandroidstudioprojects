@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SwearWorld2</string>
+    <string name="title_swear_detail">Swear Detail</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">A swear in a known language</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

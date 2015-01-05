@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="TunerView">
+        <!--<attr name="showText" format="boolean" />-->
+    </declare-styleable>
+</resources>
